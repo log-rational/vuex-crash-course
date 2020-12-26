@@ -2,6 +2,8 @@
 
 [https://youtu.be/5lVQgZzLMHc](https://youtu.be/5lVQgZzLMHc)
 
+My learning journey continues with Brad Traversy's Vuex crash course.
+
 ## Why use vuex?
 
 - Components needs to share state in many cases.
@@ -20,3 +22,11 @@
 - **Actions** - Called from components to commit a mutation
 - **Mutation** - Mutate the state (update data, etc)
 - **Modules** - Each modules can have its own state, getters, actions and mutations (posts module, auth module, etc)
+
+## Here we go 
+
+- Install vue cli and vuex
+  ```npm i -g @vue/cli vuex```
+- Check current version ```vue --version```
+- Create a new vue app in current directory ```vue create .```
+- 
